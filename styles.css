@@ -78,7 +78,7 @@ h1 > img {
 
 #result {
     width: 100%;
-    height: 100%;
+    height: 90%;
     border: 5px solid var(--light-blue);
     background-color: rgb(171, 171, 171);
 
