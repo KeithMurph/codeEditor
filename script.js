@@ -19,3 +19,6 @@ javascript_code.onkeyup = () => run();
 html_code.value = localStorage.html_code;
 css_code.value = localStorage.css_code;
 javascript_code.value = localStorage.javascript_code;
+
+
+console.log("%cHello, I'm a console message", "color: red; font-size: 20px;");
