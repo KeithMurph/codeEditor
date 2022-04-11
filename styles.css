@@ -82,8 +82,7 @@ h1>img {
     border: 5px solid var(--light-blue);
     background-color: rgb(171, 171, 171);
 }
-
-.console * {
+ * {
     font-family: monospace;
 }
 
